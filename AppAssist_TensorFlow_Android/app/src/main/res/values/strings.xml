@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppAssist</string>
+    <string name="submit">Submit</string>
+    <string name="select_apps_you_have">Select Apps you have</string>
+</resources>
